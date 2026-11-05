@@ -9,21 +9,18 @@ Interested in Java, backend development and web applications.
 
 Java, SQL, JavaScript, HTML and CSS.
 
-## Academic team projects
+## ## Academic team projects
 
-- **Distributed Accommodation Booking System:**
+- **[Distributed Booking System](https://github.com/dimaniatis/distributed-booking-system):**
   Java backend with TCP socket communication,
   a master-worker-reducer architecture and an Android client.
 
-- **Educational Web Portal:**
-  HTML, CSS and JavaScript application with resource search,
-  quizzes and localStorage for browser-based storage.
+- **[E-Learning Website](https://github.com/dimaniatis/e-learning-website):**
+  An improved version of a university team project using HTML, CSS
+  and vanilla JavaScript, with resource search, quizzes and a local study planner.
 
-- **No Way Out - Midnight Guests:**
-  A 2D browser game using JavaScript, HTML5 Canvas and Web Audio.
+- **[No Way Out](https://github.com/dimaniatis/nowayout-2d-game):**
+  A university team project: a 2D browser horror game built with
+  JavaScript, p5.js and p5.sound.
+  
 
-### My contribution to the distributed booking project
-
-I contributed to Java backend command handling,
-communication across master, worker and reducer components,
-and Android interface presentation.
